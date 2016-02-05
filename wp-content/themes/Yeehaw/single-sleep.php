@@ -9,7 +9,7 @@
 
 get_header(); ?>
 
-	<div id="primary" class="content-area" style="background:pink">
+	<div id="primary" class="content-area" style="background: #4BA7AB">
 		<div id="content" class="site-content" role="main">
 			<?php
 				// Start the Loop.
@@ -21,10 +21,14 @@ get_header(); ?>
 					 * (where ___ is the post format) and that will be used instead.
 					 */
 					get_template_part( 'content', get_post_format() );
-					
+					//custom URL
 					echo types_render_field("sleep", array("argument1"=>"value1","argument2"=>"value2","argument2"=>"value2"));
-						echo types_render_field("eggs", array("argument1"=>"value1","argument2"=>"value2","argument2"=>"value2"));
- echo types_render_field("image", array("argument1"=>"value1","argument2"=>"value2","argument2"=>"value2"));
+					
+					//date time
+					echo types_render_field("eggs", array("argument1"=>"value1","argument2"=>"value2","argument2"=>"value2"));
+						
+					//image
+                   echo types_render_field("image", array("argument1"=>"value1","argument2"=>"value2","argument2"=>"value2"));
  
 
 					// Previous/next post navigation.
