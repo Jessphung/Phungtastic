@@ -23,6 +23,8 @@ get_header(); ?>
 					get_template_part( 'content', get_post_format() );
 					
 					echo types_render_field("sleep", array("argument1"=>"value1","argument2"=>"value2","argument2"=>"value2"));
+						echo types_render_field("eggs", array("argument1"=>"value1","argument2"=>"value2","argument2"=>"value2"));
+ echo types_render_field("image", array("argument1"=>"value1","argument2"=>"value2","argument2"=>"value2"));
  
 
 					// Previous/next post navigation.
