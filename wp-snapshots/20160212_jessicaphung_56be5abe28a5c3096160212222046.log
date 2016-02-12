@@ -1,0 +1,75 @@
+********************************************************************************
+PACKAGE-LOG: 2016-02-12 22:20:56
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.1.4
+WORDPRESS:	4.4.1
+PHP INFO:	5.5.24 | SAPI: apache2handler
+SERVER:		Apache/2.4.12 (Unix) OpenSSL/1.0.1m PHP/5.5.24 mod_perl/2.0.8-dev Perl/v5.16.3 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 5000M (512M default) 
+MEMORY STACK: 32.25MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported 
+TABLES: total:13 | filtered:0 | create:13 
+FILTERED: [] 
+SQL CREATED: 20160212_jessicaphung_56be5abe28a5c3096160212222046_database.sql 
+SQL FILE SIZE: 600.58KB (614999) 
+SQL FILE TIME: 2016-02-12 22:20:57 
+SQL RUNTIME: 1.00 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /Users/jessicaphung/Documents/Websites/phungtastic.dev 
+ARCHIVE FILE: 20160212_jessicaphung_56be5abe28a5c3096160212222046_archive.zip 
+FILTERS: *ON* 
+DIRS:  /Users/jessicaphung/Documents/Websites/phungtastic.dev; 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	0B 
+STATS:	Dirs 0 | Files 0 
+SQL ADDED: 20160212_jessicaphung_56be5abe28a5c3096160212222046_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 1
+    [filename] => /Users/jessicaphung/Documents/Websites/phungtastic.dev/wp-snapshots/tmp/20160212_jessicaphung_56be5abe28a5c3096160212222046_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 173.68KB 
+ARCHIVE RUNTIME: 0.10 sec. 
+MEMORY STACK: 32.5MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+Template parsed with new data 
+Complete [/Users/jessicaphung/Documents/Websites/phungtastic.dev/wp-snapshots/tmp/20160212_jessicaphung_56be5abe28a5c3096160212222046_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 600.58KB 
+Installer File: 318.87KB 
+Archive File: 173.68KB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 2.26 sec.
+PEAK PHP MEMORY USED: 35.5MB
+DONE PROCESSING => 20160212_jessicaphung 2016-02-12 22:20:58
+ 
